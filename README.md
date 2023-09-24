@@ -9,11 +9,15 @@
   <a href="https://twitter.com/sensuscuro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+<!--   <a href="https://www.researchgate.net/profile/Faizon-Zaman">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
 </div>
+<br>
 
 Lead Lexical Programmer @ [Wolfram|Alpha](https://www.wolframalpha.com)
 
-BSc. Cognitive Science; m. Computer Science, Audio Production + Design
+BSc. Cognitive Science; m. Computer Science, Audio Production + Design | [merit](https://meritpages.com/faizon_zaman)
 
 ---
 
