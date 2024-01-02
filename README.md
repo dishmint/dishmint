@@ -21,12 +21,18 @@ BSc. Cognitive Science; m. Computer Science, Audio Production + Design | [merit]
 
 ### Paclets
 <div id="badges">
-  <a href="https://resources.wolframcloud.com/PacletRepository/resources/FaizonZaman/LexicalCases/">
-    <img src="https://img.shields.io/badge/LexicalCases-628F73?style=for-the-badge&logo=wolframlanguage&logoColor=white" alt="Lexical Cases Paclet Badge"/>
+    <a href="https://resources.wolframcloud.com/PacletRepository/resources/FaizonZaman/LexicalCases/"><img src="https://img.shields.io/badge/LexicalCases-628F73?style=for-the-badge&logo=wolframlanguage&logoColor=white" alt="Lexical Cases Paclet Badge"/>
   </a>
+   <p>
+      — Extract substrings matching a lexical pattern
+   </p>
+  <br>
   <a href="https://resources.wolframcloud.com/PacletRepository/resources/FaizonZaman/MacroTools/">
     <img src="https://img.shields.io/badge/MacroTools-628F73?style=for-the-badge&logo=wolframlanguage&logoColor=white" alt="Macro Tools Paclet Badge"/>
   </a>
+  <p>
+    — Experimental functions not suited for WFR (just yet at least)
+  </p>
 </div>
 
 ### Functions
@@ -34,6 +40,15 @@ BSc. Cognitive Science; m. Computer Science, Audio Production + Design | [merit]
   <a href="https://resources.wolframcloud.com/FunctionRepository/resources/SetComplementMap/">
     <img src="https://img.shields.io/badge/SetComplementMap-628F73?style=for-the-badge&logo=wolframlanguage&logoColor=white" alt="SetComplementMap Function Badge"/>
   </a>
+  <p>
+    — Map a function to certain positions and another function to the rest of the positions
+  </p>
+    <a href="https://resources.wolframcloud.com/FunctionRepository/resources/MapAtPart/">
+    <img src="https://img.shields.io/badge/MapAtPart-628F73?style=for-the-badge&logo=wolframlanguage&logoColor=white" alt="MapAtPart Function Badge"/>
+  </a>
+  <p>
+    — Map functions to specified parts of an expression
+  </p>
 </div>
 
 ---
