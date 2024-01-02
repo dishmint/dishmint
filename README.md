@@ -19,6 +19,8 @@ Lead Lexical Programmer @ [Wolfram|Alpha](https://www.wolframalpha.com)
 
 BSc. Cognitive Science; m. Computer Science, Audio Production + Design | [merit](https://meritpages.com/faizon_zaman)
 
+---
+
 ### Paclets
 <div id="badges">
     <a href="https://resources.wolframcloud.com/PacletRepository/resources/FaizonZaman/LexicalCases/"><img src="https://img.shields.io/badge/LexicalCases-628F73?style=for-the-badge&logo=wolframlanguage&logoColor=white" alt="Lexical Cases Paclet Badge"/>
