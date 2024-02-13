@@ -6,9 +6,9 @@
 <!--   <a href="https://www.buymeacoffee.com/fznzmn">
     <img src="https://img.shields.io/badge/buy_me_a_coffee-628F73?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee Badge"/>
   </a> -->
-  <a href="https://twitter.com/sensuscuro">
+<!--   <a href="https://twitter.com/sensuscuro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 <!--   <a href="https://www.researchgate.net/profile/Faizon-Zaman">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
