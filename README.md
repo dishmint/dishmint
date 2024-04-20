@@ -1,10 +1,6 @@
-# Art • Text • Programs
-Lead Lexical Programmer @ [Wolfram|Alpha](https://www.wolframalpha.com)
+Hey! I'm Fez.
 
-BSc. Cognitive Science; m. Computer Science, Audio Production + Design | [merit](https://meritpages.com/faizon_zaman)
-<br>
-<a href="https://www.linkedin.com/in/faizonzaman"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-
+Check out what I've been up to!
 
 <div id="badges">
   
