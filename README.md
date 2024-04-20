@@ -1,4 +1,4 @@
-# Art • Text • Code
+# Art • Programs
 Lead Lexical Programmer @ [Wolfram|Alpha](https://www.wolframalpha.com)
 
 BSc. Cognitive Science; m. Computer Science, Audio Production + Design | [merit](https://meritpages.com/faizon_zaman)
