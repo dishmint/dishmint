@@ -1,6 +1,6 @@
 Hey! I'm Fez.
 
-Check out what I've been up to!
+I work at Wolfram Alpha on linguistics and prompt engineering. At home I like to build tools, write programs and make art, some of which you can find within my repos.
 
 <div id="badges">
   
